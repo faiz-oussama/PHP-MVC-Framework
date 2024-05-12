@@ -2,8 +2,8 @@
     "name": "faiz-oussama/php-mvc-faizavel",
     "autoload": {
         "psr-4": {
-            "Faiz\\PhpMvcFaizavel\\": "src/"
-        }
+                    "faizavel\\mvc\\": "."
+            }
     },
     "authors": [
         {
@@ -11,11 +11,6 @@
             "email": "faizouss123@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-                    "faizavel\\mvc": "."
-            }
-    }
+    "require": {}
 
 }
