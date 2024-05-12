@@ -1,5 +1,5 @@
 {
-    "name": "faizOussama/php-mvc-faizavel",
+    "name": "faiz-oussama/php-mvc-faizavel",
     "autoload": {
         "psr-4": {
             "Faiz\\PhpMvcFaizavel\\": "src/"
