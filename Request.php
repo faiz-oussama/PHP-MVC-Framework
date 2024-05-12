@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace faizavel\mvc;
 class Request
 {
     public function getPath()

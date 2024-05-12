@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace faizavel\mvc;
 class Response
 {
     public function setStatusCode(int $code)

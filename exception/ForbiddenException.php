@@ -1,5 +1,5 @@
 <?php
-namespace app\core\exception;
+namespace faizavel\mvc\exception;
 
 class ForbiddenException extends \Exception
 {

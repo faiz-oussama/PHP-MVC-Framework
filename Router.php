@@ -1,9 +1,9 @@
 <?php 
 
-namespace app\core;
-use app\core\controller\Controller;
-use app\core\Request;
-use app\core\Response;
+namespace faizavel\mvc;
+use faizavel\mvc\controller\Controller;
+use faizavel\mvc\Request;
+use faizavel\mvc\Response;
 
 
 

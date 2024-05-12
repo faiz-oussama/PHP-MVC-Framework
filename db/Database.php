@@ -1,7 +1,7 @@
 <?php
 
-namespace app\core\db;
-use app\core\Application;
+namespace faizavel\mvc\db;
+use faizavel\mvc\Application;
 class Database
 {
     public \PDO $pdo;

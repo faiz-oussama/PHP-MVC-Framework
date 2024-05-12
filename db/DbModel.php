@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
-use app\core\Model;
-use app\core\Application;
+namespace faizavel\mvc\db;
+use faizavel\mvc\Model;
+use faizavel\mvc\Application;
 abstract class DbModel extends Model
 {
     abstract public function primaryKey(): string;

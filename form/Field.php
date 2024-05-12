@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace faizavel\mvc\form;
 
-use app\core\Model;
+use faizavel\mvc\Model;
 class Field
 {
     public Model $model;

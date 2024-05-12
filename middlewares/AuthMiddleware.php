@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\middlewares;
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+namespace faizavel\mvc\middlewares;
+use faizavel\mvc\Application;
+use faizavel\mvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

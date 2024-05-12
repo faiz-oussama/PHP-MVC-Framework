@@ -1,12 +1,12 @@
 <?php
-namespace app\core;
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+namespace faizavel\mvc;
+use faizavel\mvc\Application;
+use faizavel\mvc\middlewares\BaseMiddleware;
 
 class Controller
 {
     /**
-     * @var \app\core\middlewares\BaseMiddleware[]
+     * @var \faizavel\mvc\middlewares\BaseMiddleware[]
      */
     public array $middlewares = [];
     public string $layout = 'main';

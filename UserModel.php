@@ -1,6 +1,6 @@
 <?php
-namespace app\core;
-use app\core\db\DbModel;
+namespace faizavel\mvc;
+use faizavel\mvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

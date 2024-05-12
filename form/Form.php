@@ -1,7 +1,7 @@
 <?php
 
-namespace app\core\form;
-use app\core\Model;
+namespace faizavel\mvc\form;
+use faizavel\mvc\Model;
 class Form
 {
     public static function begin($action,$method)

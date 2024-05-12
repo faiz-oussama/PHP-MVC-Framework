@@ -1,7 +1,7 @@
 <?php 
 
 
-namespace app\core;
+namespace faizavel\mvc;
 class session
 {
     protected const FLASH_KEY = 'flash_messages';

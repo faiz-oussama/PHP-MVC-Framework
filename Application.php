@@ -1,13 +1,13 @@
 <?php
-namespace app\core;
+namespace faizavel\mvc;
 
-use app\core\Request;
-use app\core\Router;
-use app\core\Response;
-use app\core\db\Database;
-use app\core\db\DbModel;
-use app\core\Session;
-use app\core\Controller;
+use faizavel\mvc\Request;
+use faizavel\mvc\Router;
+use faizavel\mvc\Response;
+use faizavel\mvc\db\Database;
+use faizavel\mvc\db\DbModel;
+use faizavel\mvc\Session;
+use faizavel\mvc\Controller;
 
 class Application
 {
