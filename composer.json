@@ -1,0 +1,15 @@
+{
+    "name": "faiz/php-mvc-faizavel",
+    "autoload": {
+        "psr-4": {
+            "Faiz\\PhpMvcFaizavel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "faiz-oussama",
+            "email": "faizouss123@gmail.com"
+        }
+    ],
+    "require": {}
+}
